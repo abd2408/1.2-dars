@@ -1,8 +1,29 @@
-<user>
-    <name>Abdulla</name>
-    <lastname>Ilhomjonov</lastname>
-    <education>
-        <name>TATU</name>
-        <department>Dasturiy injiniring</department>
-    </education>
-</user>
+<users>
+    <user>
+        <name>Xushnud</name>
+        <lastname>Xamzayev</lastname>
+        <educations>
+            <education type="university">
+            <name>QDU</name>
+            <department>Davolash ishi</department>
+            </education>
+            <education type="school">
+                <name>13</name>
+            </education>
+        </educations>
+    </user>
+
+    <user>
+        <name>Abdulla</name>
+        <lastname>Ilhomjonov</lastname>
+        <educations>
+            <education type="university">
+            <name>TATU</name>
+            <department>Dasturiy injiniring</department>
+            </education>
+            <education type="school">
+                <name>13</name>
+            </education>
+        </educations>
+    </user>
+</users>
