@@ -1,6 +1,8 @@
-<odam>
-    <ism>Abdulla</ism>
-    <sharif>Ilhomjonov</sharif>
-    <nomi>TATU</nomi>
-    <fakultet>Dasturiy injiniring</fakultet>
-</odam>
+<user>
+    <name>Abdulla</name>
+    <lastname>Ilhomjonov</lastname>
+    <education>
+        <name>TATU</name>
+        <department>Dasturiy injiniring</department>
+    </education>
+</user>
