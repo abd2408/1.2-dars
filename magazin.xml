@@ -1,0 +1,45 @@
+<salon>
+    <mashinalar>
+        <mashina id="1">
+            <nomi>Cobalt</nomi>
+        </mashina>
+        <mashina id="2">
+            <nomi>Matiz</nomi>
+        </mashina>
+        <mashina id="3">
+            <nomi>Malibu</nomi>
+        </mashina>
+        <mashina id="4">
+            <nomi>Matiz</nomi>
+        </mashina>
+        <mashina id="5">
+            <nomi>Cobalt</nomi>
+        </mashina>
+    </mashinalar>
+    <ranglar>
+        <rang type="qizil">
+            <id>1</id>
+            <id>4</id>
+        </rang>
+        <rang type="qora">
+            <id>3</id>
+            <id>5</id>
+        </rang>
+        <rang type="oq">
+            <id>2</id>
+        </rang>
+    </ranglar>
+    <narxlar>
+        <narx type="10000">
+            <id>1</id>
+            <id>5</id>
+        </narx>
+        <narx type="5000">
+            <id>2</id>
+            <id>4</id>
+        </narx>
+        <narx type="20000">
+            <id>3</id>
+        </narx>
+    </narxlar>
+</salon>
