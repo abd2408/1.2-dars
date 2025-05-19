@@ -1,0 +1,58 @@
+<truthtable>
+    <values>
+        <value id="1">F, F</value>
+        <value id="2">F, T</value>
+        <value id="3">T, F</value>
+        <value id="4">T, T</value>
+    </values>
+    <operators>
+        <operator id="1">and</operator>
+        <operator id="2">or</operator>
+        <operator id="3">nand</operator>
+        <operator id="4">nor</operator>
+        <operator id="5">xor</operator>
+        <operator id="6">xnor</operator>
+    </operators>
+    <results>
+        <operatorresult operator="1">
+            <result value="1">F</result>
+            <result value="2">F</result>
+            <result value="3">F</result>
+            <result value="4">T</result>
+        </operatorresult>
+        <operatorresult operator="2">
+            <result value="1">F</result>
+            <result value="2">T</result>
+            <result value="3">T</result>
+            <result value="4">T</result>
+        </operatorresult>
+
+        <operatorresult operator="3">
+            <result value="1">T</result>
+            <result value="2">T</result>
+            <result value="3">T</result>
+            <result value="4">F</result>
+        </operatorresult>
+
+        <operatorresult operator="4">
+            <result value="1">T</result>
+            <result value="2">F</result>
+            <result value="3">F</result>
+            <result value="4">F</result>
+        </operatorresult>
+
+        <operatorresult operator="5">
+            <result value="1">F</result>
+            <result value="2">T</result>
+            <result value="3">T</result>
+            <result value="4">F</result>
+        </operatorresult>
+
+        <operatorresult operator="6">
+            <result value="1">T</result>
+            <result value="2">F</result>
+            <result value="3">F</result>
+            <result value="4">T</result>
+        </operatorresult>
+    </results>
+</truthtable>
